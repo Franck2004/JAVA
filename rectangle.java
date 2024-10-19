@@ -17,6 +17,7 @@ public class rectangle {
     }
     public static void main(String[] args) {
         System.out.println(".........classe de gestion de rectangle.........\n");
+        System.out.println("calcul des parametres");
         System.out.println("entrez la longueur du rectangle \n");
         Scanner scan=new Scanner(System.in);
         float L=scan.nextFloat();
